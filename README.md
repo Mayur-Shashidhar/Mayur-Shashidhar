@@ -110,8 +110,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mayur-Shashidhar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🧠 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=github_dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
