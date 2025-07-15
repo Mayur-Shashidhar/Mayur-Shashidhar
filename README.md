@@ -106,9 +106,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayur-shashidhar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mayur-shashidhar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-shashidhar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&show_icons=true&count_private=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mayur-Shashidhar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayur-shashidhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
