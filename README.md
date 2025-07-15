@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Shashidhar Mayur 
 
 🚀 About Me
+
 🎓 First-year Computer Science student at PES University
 
 💡 Passionate about software development, AI, and backendand frontend engineering
