@@ -4,11 +4,11 @@
 
 --🎓 Second-year Computer Science student at PES University
 
---💡 Passionate about Full Stack Engineering, Artificial Intelligence and Machine Learning
+--💡 Love to study about Full Stack Engineering, Artificial Intelligence and Machine Learning
 
 --💻 Currently working on MERN Stack projects
 
---🌱 Learning DSA and C
+--🌱 Learning DSA in C
 
 
 
