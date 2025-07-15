@@ -1,8 +1,14 @@
-## Hi there 👋 I'm Shashidhar Mayur
+## Hi there 👋 I'm Shashidhar Mayur 
 
-Computer Science student at PES University
+🚀 About Me
+🎓 First-year Computer Science student at PES University
 
-I love creating projects
+💡 Passionate about software development, AI, and backendand frontend engineering
+
+💻 Currently working on MERN Stack projects
+
+🌱 Learning DSA and C
+
 
 
 
