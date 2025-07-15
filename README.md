@@ -112,8 +112,11 @@
 ## 🧠 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=github_dark)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayur-shashidhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Shashidhar&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&row=1" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
