@@ -108,8 +108,9 @@
 # 📊 GitHub Stats:
 ![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&show_icons=true&count_private=true&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mayur-Shashidhar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=github_dark)
 
+## 🧠 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayur-shashidhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
