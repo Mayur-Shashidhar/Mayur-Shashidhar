@@ -111,6 +111,9 @@
 ## 🧠 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical)
 
+## 🐍 Contribution Graph
+![Contribution Snake](https://github.com/Mayur-Shashidhar/Mayur-Shashidhar/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
