@@ -2,9 +2,9 @@
 
 🚀 About Me
 
-🎓 First-year Computer Science student at PES University
+🎓 Second-year Computer Science student at PES University
 
-💡 Passionate about software development, AI, and backendand frontend engineering
+💡 Passionate about Full Stack Engineering, Artificial Intelligence and Machine Learning
 
 💻 Currently working on MERN Stack projects
 
