@@ -114,8 +114,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.ryo-ma.app/?username=Mayur-Shashidhar&theme=darkhub&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Shashidhar&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
