@@ -113,7 +113,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=github_dark)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.ryo-ma.app/?username=Mayur-Shashidhar)
+
+[![trophy](https://github-profile-trophy.ryo-ma.app/?username=Mayur-Shashidhar&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
