@@ -109,7 +109,7 @@
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&show_icons=true&theme=radical)
 
 ## 🧠 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
