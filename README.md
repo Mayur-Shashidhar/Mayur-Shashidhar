@@ -107,6 +107,8 @@
 
 # 📊 GitHub Stats:
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&show_icons=true&theme=radical)
+[![Mayur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Shashidhar)](https://github.com/Mayur-Shashidhar/github-readme-activity-graph)
+
 
 ## 🧠 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical)
