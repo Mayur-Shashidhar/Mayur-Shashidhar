@@ -107,7 +107,6 @@
 
 # 📊 GitHub Stats:
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&show_icons=true&theme=radical)
-[![Mayur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Shashidhar)](https://github.com/Mayur-Shashidhar/github-readme-activity-graph)
 
 
 ## 🧠 Most Used Languages:
@@ -118,6 +117,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mayur-shashidhar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Mayur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Shashidhar)](https://github.com/Mayur-Shashidhar/github-readme-activity-graph)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayur-shashidhar&icon=1&color=1)](https://visitcount.itsvg.in)
