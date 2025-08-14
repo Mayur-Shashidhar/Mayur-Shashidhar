@@ -8,7 +8,7 @@
 
 --💻 Currently working on MERN Stack projects
 
---🌱 Learning DSA in C
+--🌱 Learning DSA in C (Check out : https://github.com/Mayur-Shashidhar/DSA-on-LEETCODE)
 
 
 
