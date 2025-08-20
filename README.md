@@ -4,7 +4,7 @@
 
 --🎓 Second-year Computer Science student at PES University
 
---💡 Love to study about Full Stack Engineering, Artificial Intelligence and Machine Learning
+--💡 Love to study about Full Stack Web Development, Artificial Intelligence and Machine Learning
 
 --💻 Currently working on MERN Stack projects
 
