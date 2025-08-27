@@ -1,3 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🚀%20Crafting%20the%20Future%20in%20Code%20&fontAlign=50&fontSize=35&fontColor=ffffff&color=0:6a11cb,100:2575fc&animation=twinkling)
+
+
+
+
 ## Hi there 👋 I'm Shashidhar Mayur 
 
 🚀 About Me
