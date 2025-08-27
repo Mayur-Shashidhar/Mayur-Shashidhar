@@ -37,7 +37,7 @@
   </a>
 
    <a href="https://smayur.vercel.app/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/💻 Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
