@@ -19,26 +19,24 @@
 
 ## 📬 Connect with Me
 
-<p>
-  <a href="mailto:mayurmamatha9916@gmail.com" target="_blank">
+<p align="center">
+  <a href="mailto:mayurmamatha9916@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-
-  <a href="https://instagram.com/M_y_r101" target="_blank">
+  <a href="https://instagram.com/M_y_r101" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-
-  <a href="https://github.com/Mayur-Shashidhar" target="_blank">
+  <a href="https://github.com/Mayur-Shashidhar" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-
-  <a href="https://www.linkedin.com/in/s-mayur-0974a8380/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/s-mayur-0974a8380/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 ## 💻 Tech Stack
