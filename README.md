@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🚀%20Crafting%20the%20Future%20in%20Code%20&fontAlign=50&fontSize=35&fontColor=ffffff&color=0:6a11cb,100:2575fc&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&tex 🌌%20Building%20the%20Future%20Line%20by%20Line&fontAlign=50&fontSize=34&fontColor=fff&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn)
+
 
 
 
