@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&text=🌌%20Building%20the%20Future%20Line%20by%20Line&fontAlign=50&fontSize=34&fontColor=fff&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
 
 
 
