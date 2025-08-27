@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=💻%20Coding%20the%20Matrix&fontAlign=50&fontSize=34&fontColor=00ff00&color=0:000000,100:434343&animation=fadeIn)
-
-
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
 
 
 ## Hi there 👋 I'm Shashidhar Mayur 
