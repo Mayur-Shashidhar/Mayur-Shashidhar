@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
 
 
-## Hi there 👋 I'm Shashidhar Mayur 
+## Hi there 👋 I'm S Mayur 
 
 🚀 About Me
 
