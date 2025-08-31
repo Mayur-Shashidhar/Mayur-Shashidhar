@@ -122,7 +122,8 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Mayur-Shashidhar&theme=radical&hide_border=false)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-shashidhar&layout=compact&theme=radical" alt="Most Used Languages" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-shashidhar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <br/>
 
 ---
