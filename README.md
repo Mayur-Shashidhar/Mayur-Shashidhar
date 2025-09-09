@@ -12,7 +12,7 @@
 --💻 Currently working on MERN Stack projects
 
 --🌱 Learning DSA in C
-
+![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
