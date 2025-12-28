@@ -122,9 +122,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=mayur-shashidhar&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mayur-Shashidhar&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-shashidhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
 ---
@@ -134,7 +134,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayur-shashidhar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mayur-Shashidhar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 [![Mayur's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Shashidhar)](https://github.com/Mayur-Shashidhar/github-readme-activity-graph)
 
 
