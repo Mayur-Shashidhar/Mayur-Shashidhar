@@ -5,8 +5,11 @@
 🚀 **About Me**  
 
 🎓 Second-year Computer Science student at PES University  
+
 💡 Interested in Full Stack Web Development, Artificial Intelligence, Machine Learning and Cyber Security  
+
 💻 Currently working on MERN Stack projects and AIML projects
+
 🌱 Learning DSA in C  
 
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
