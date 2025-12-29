@@ -8,7 +8,7 @@
 
 💡 Love to study about Full Stack Web Development, Artificial Intelligence and Machine Learning, Cyber Security 
 
-💻 Currently working on MERN Stack projects and check out my portfolio : https://smayur.vercel.app/ 
+💻 Currently working on MERN Stack projects and AIML projects
 
 🌱 Learning DSA in C
 
