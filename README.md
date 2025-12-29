@@ -1,14 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayur-Shashidhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-Now give me for top languages
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
-
-
 ## Hi there 👋 I'm S Mayur 
 
 🚀 About Me
@@ -24,9 +13,6 @@ Now give me for top languages
 
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
-<img    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="650"/>
 
 
 ## 📬 Connect with Me
