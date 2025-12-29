@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
+
+
 ## Hi there 👋 I'm S Mayur 
 
 🚀 About Me
@@ -13,6 +16,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
 
+---
+
+<img    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="650"/>
 
 
 ## 📬 Connect with Me
@@ -21,19 +27,15 @@
   <a href="mailto:mayurmamatha9916@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://instagram.com/M_y_r101" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="https://github.com/Mayur-Shashidhar" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com/in/s-mayur-0974a8380/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
    <a href="https://smayur.vercel.app/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/💻 Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
@@ -136,4 +138,4 @@
 [![](https://visitcount.itsvg.in/api?id=mayur-shashidhar&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-This is my present README.md add your most used languages in this\
+This is my present README.md add your most used languages in this
