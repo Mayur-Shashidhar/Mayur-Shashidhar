@@ -90,11 +90,12 @@
 ---
 
 ### Top Langauages
-
+## 🥧 Top Languages (Animated Pie)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical&hide_border=false&langs_count=10" />
+  <img src="https://raw.githubusercontent.com/Mayur-Shashidhar/Mayur-Shashidhar/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 ---
 
