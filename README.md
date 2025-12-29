@@ -90,8 +90,10 @@
 ---
 
 ### Top Langauages
+
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Shashidhar&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&layout=compact&theme=radical&hide_border=false&langs_count=10" />
 </p>
 
 ---
