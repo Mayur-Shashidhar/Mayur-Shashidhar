@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm S Mayur  
 
-🚀 About Me 
+🚀 About Me:
 
 🎓 Second-year Computer Science student at PES University 
 
