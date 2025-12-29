@@ -91,7 +91,7 @@
 
 ### Top Langauages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-shashidhar&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Shashidhar&theme=radical&layout=compact" />
 </p>
 
 ---
