@@ -1,10 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
 
 ## Hi there 👋 I'm S Mayur  
+
 🚀 About Me 
+
 🎓 Second-year Computer Science student at PES University 
+
 💡 Love to study about Full Stack Web Development, Artificial Intelligence and Machine Learning, Cyber Security 
+
 💻 Currently working on MERN Stack projects and check out my portfolio : https://smayur.vercel.app/ 
+
 🌱 Learning DSA in C
 
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
