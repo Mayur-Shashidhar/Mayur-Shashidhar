@@ -81,7 +81,9 @@
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://github-contributor-stats.vercel.app/api?username=mayur-shashidhar&limit=5&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mayur-Shashidhar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=mayur-shashidhar&icon=1&color=1)](https://visitcount.itsvg.in)
+---
+
+[![](https://visitcount.itsvg.in/api?id=Mayur-Shashidhar&icon=0&color=0)](https://visitcount.itsvg.in)
