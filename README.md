@@ -101,6 +101,52 @@
 
 ---
 
+## 🧠 Core Expertise
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="50%" style="padding: 25px;">
+
+### 🖥️ Full-Stack  
+**MERN • Next.js**  
+<sub>Scalable, high-performance web applications</sub>
+
+</td>
+
+<td align="center" width="50%" style="padding: 25px;">
+
+### 🤖 AI / ML  
+**Model Integration**  
+<sub>Intelligent systems & data-driven solutions</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 25px;">
+
+### ⚙️ Backend  
+**APIs • Authentication**  
+<sub>Robust architecture & system design</sub>
+
+</td>
+
+<td align="center" style="padding: 25px;">
+
+### 🛢️ Databases  
+**SQL • MongoDB**  
+<sub>Optimized data models & queries</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mayur-Shashidhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mayur-Shashidhar&theme=dark&hide_border=false)<br/>
