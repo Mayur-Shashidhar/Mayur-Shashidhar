@@ -29,6 +29,15 @@
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
+## 🏆 Achievements
+
+* 🥇 Winner – CyberClash Hackathon
+* 🎓 Participant – IIT Madras Shaastra 2026
+* 👨‍🏫 Mentored at Genesys & Vichar
+* ⚡ Active contributor in tech communities
+* 🏅 Top 10 Finisher – HacktoberFest HackNight 7.0 (Rank #9 / 50+)
+
+---
 
 ## 📬 Connect with Me
 <p>
