@@ -1,16 +1,30 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=🔥%20Igniting%20Innovation%20One%20Line%20at%20a%20Time&fontAlign=50&fontSize=32&fontColor=ffffff&color=0:ff512f,100:dd2476&animation=twinkling)
 
-## Hi there 👋 I'm S Mayur  
+## 🚀 About Me
 
-🚀 About Me:
+<h1 align="center">Hey 👋, I'm <span style="color:#00C2FF;">S Mayur</span></h1>
 
-🎓 Second-year Computer Science student at PES University 
+<p align="center">
+  💻 <b>Full-Stack Engineer</b> &nbsp;|&nbsp; 🤖 <b>AI/ML Developer</b> &nbsp;|&nbsp; 🎓 <b>CSE @ PES University</b>
+</p>
 
-💡 Love to study about Full Stack Web Development, Artificial Intelligence and Machine Learning, Cyber Security 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+AI%2FML+Systems;DSA+%7C+MERN+%7C+Innovation" />
+</p>
 
-💻 Currently working on MERN Stack projects and AIML projects
+---
 
-🌱 Learning DSA in C
+### 🧠 Who Am I?
+
++ 🎓 Second-year B.Tech (CSE) student @ PES University
++ 💻 Building scalable applications using MERN Stack (React, Next.js, Node.js)
++ 🤖 Exploring AI, Machine Learning & Cyber Security
++ 🌱 Strengthening Data Structures & Algorithms
++ 💡 Passionate about intelligent, scalable and impactful systems
++ 🚀 Always learning, building and pushing limits
+
+---
+
 
 ![](https://komarev.com/ghpvc/?username=Mayur-Shashidhar&label=Profile%20views&color=0e75b6&style=flat)
 
